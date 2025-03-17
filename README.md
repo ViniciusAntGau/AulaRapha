@@ -1,2 +1,1 @@
-# AulaRapha
-Aula Rapha dia 10/03
+Não compensa
